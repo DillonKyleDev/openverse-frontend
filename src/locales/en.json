@@ -596,5 +596,8 @@
     "aria": {
       "arrow-label": "Dropdown"
     }
+  },
+  "download-button": {
+    "download": "Download"
   }
 }
